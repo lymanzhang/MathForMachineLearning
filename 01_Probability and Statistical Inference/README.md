@@ -18,7 +18,8 @@
 
 ## 概率统计基础的重要性
 - 研究数据分析必须打好概率和统计基础
-  – Using fancy tools like neural nets, boosting and support vector machines without understanding basic statistics __ like doing brain surgery before knowing how to use a band-aid __.
+
+  – Using fancy tools like neural nets, boosting and support vector machines without understanding basic statistics _like doing brain surgery before knowing how to use a band-aid_.
   
 
 ## 概率
