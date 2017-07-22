@@ -1,4 +1,4 @@
-## Probability and Statistical Inference 概率与统计推断
+## Part 01: Probability and Statistical Inference 概率与统计推断
 
 ### [http://en.wikipedia.org/wiki/Machine_learning](http://en.wikipedia.org/wiki/Machine_learning)
 
