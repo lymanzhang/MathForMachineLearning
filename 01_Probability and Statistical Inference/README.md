@@ -62,3 +62,22 @@
 ![概率论与数理统计](https://github.com/lymanzhang/MathForMachineLearning/blob/master/01_Probability%20and%20Statistical%20Inference/images/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1(%E7%AC%AC%E5%9B%9B%E7%89%88)%20.jpg)
 
 - 盛骤、谢式千、潘承毅，[**概率论与数理统计**(第四版)](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00Y7UVZHQ/ref=sr_1_1?ie=UTF8&qid=1500723702&sr=8-1&keywords=%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1) – 2008年6月1日，高等教育出版社.
+
+------------------------------------------
+
+$$\sum_{i=1}^n a_i=0$$
+$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$
+$$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
+
+------------------------------------------
+
+flow
+st=>start: Start:>https://www.zybuluo.com
+io=>inputoutput: verification
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+sub=>subroutine: Your Subroutine
+e=>end
+st->io->op->cond
+cond(yes)->e
+cond(no)->sub->io
