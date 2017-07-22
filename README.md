@@ -7,7 +7,7 @@
 
 
 ------------------------------------
-## 第一部分：[机器学习之概率与统计推断](/01_Probability and Statistical Inference/README.md)
+## 第一部分：[机器学习之概率与统计推断](https://github.com/lymanzhang/MathForMachineLearning/blob/master/01_Probability%20and%20Statistical%20Inference/README.md)
 
 理解概率和统计基本概念，会利用合适的概率分布解释机器学习算法原理，运用统计知识求解机器学习模型参数，为后续的机器学习打下扎实的数学基础。
 
